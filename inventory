@@ -1,0 +1,2 @@
+target1 ansible_host=172.55.0.153 ansible_ssh_pass=pass ansible_sudo_pass=pass
+target2 ansible_host=172.55.0.158 ansible_ssh_pass=pass ansible_sudo_pass=pass
